@@ -1,0 +1,9 @@
+streamlit
+geopandas
+shapely
+fiona
+pyproj
+langchain
+langchain-groq
+openai
+python-dotenv
